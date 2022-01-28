@@ -18,4 +18,9 @@
 ### Workflow through commandline
   1) Read "Github CLI" on https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
   2) git clone https://github.com/username/IRCBot.git
+  3) git checkout -b your-feature-name
+  4) git push origin your-feature-name
+  5) edit files
+  6) git commit files -m "message"
+  7) git push
 
