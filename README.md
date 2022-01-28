@@ -33,4 +33,5 @@
 #### When the feature is complete
   1) git checkout main
   2) git merge your-feature-name
+  3) git push
 
