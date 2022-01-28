@@ -31,4 +31,6 @@
   3) git push
 
 #### When the feature is complete
-  1) 
+  1) git checkout master
+  2) git merge your-feature-name
+
