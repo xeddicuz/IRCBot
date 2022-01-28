@@ -16,5 +16,6 @@
   6) Push the changes.
 
 ### Workflow through commandline
-  1) git clone https://github.com/username/IRCBot.git
+  1) Read "Github CLI" on https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+  2) git clone https://github.com/username/IRCBot.git
 
