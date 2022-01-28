@@ -16,3 +16,5 @@
   6) Push the changes.
 
 ### Workflow through commandline
+  1) git clone https://github.com/username/IRCBot.git
+
