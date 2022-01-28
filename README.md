@@ -20,7 +20,7 @@
   2) git clone https://github.com/username/IRCBot.git
   3) git checkout -b your-feature-name
   4) git push origin your-feature-name
-  5) edit files
-  6) git commit files -m "message"
-  7) git push
+  5) git push --set-upstream origin editing-readme-commandline
+  6) edit files
+  7) git commit files -m "message"
 
